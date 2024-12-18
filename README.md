@@ -1,9 +1,21 @@
-## Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Prerna!</h1>
-<h3 align="center">👩‍💻 Developer | Tech Enthusiast | Open-Source Contributor</h3>
+<h1 align="left">**Hi 👋, I'm Prerna!**</h1>
+<h3 align="left">👩‍💻 **Developer | Tech Enthusiast | Open-Source Contributor**</h3>
+I’m a passionate Data Engineer who loves turning raw data into valuable insights. With a strong foundation in Python and data technologies, I enjoy building scalable data pipelines, working with big data frameworks, and leveraging cloud platforms to solve complex problems.
 
 - 💬 Ask me about **SQL, Spark, Python**
+  
+- ✨ **Currently working on:**
+
+1. Building end-to-end data pipelines
+2. Automating data workflows
+3. Exploring big data tools like Spark and Hadoop
+4. Optimizing data processes for better performance
+
+**🌱 Always learning:**
+
+1. Diving deeper into data warehousing and ETL/ELT processes
+2. Exploring machine learning models and data science workflows
+3. Gaining more expertise in cloud data engineering (AWS, GCP, Azure)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
